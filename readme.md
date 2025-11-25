@@ -1,4 +1,4 @@
-<img width="1678" height="954" alt="image" src="https://github.com/user-attachments/assets/fc7e8024-1dbd-491c-be15-182955846252" /># NAMA: She She Metahanover 
+# NAMA: She She Metahanover 
 # NIM: 312410432
 # KELAS: TI.24.A.3
 
@@ -9,18 +9,18 @@ Struktur seperti ini membuat proyek lebih terorganisir, mudah dikelola, dan flek
 
 ## Penjelasan Folder
 
-##  `assets/`
+##  assets
 Menyimpan file pendukung seperti:
 - CSS (desain tampilan)
 - Gambar produk
 - File statis lainnya
 
-##  `config/`
+##  config
 Berisi file konfigurasi:
 - `database.php` → mengatur koneksi MySQL ke aplikasi
 - `session.php` → mengecek apakah user sudah login atau belum
 
-##  `modules/`
+##  modules
 Folder utama yang menyimpan fitur-fitur aplikasi.
 
 Contoh:
@@ -29,13 +29,13 @@ Contoh:
 
 Setiap modul memiliki file terpisah agar lebih rapi.
 
-##  `views/`
+##  views
 Berisi file tampilan umum yang dipakai banyak halaman, seperti:
 - Header
 - Footer
 - Dashboard
 
-##  `index.php`
+##  index.php
 Gerbang utama aplikasi yang meng-handle routing menggunakan `$_GET['page']`.
 
 ## Sistem Data Barang (Inventory Management System)
@@ -45,7 +45,7 @@ Sistem Data Barang adalah aplikasi web untuk mengelola inventory barang dengan f
 
 ##  Sistem Autentikasi
 **Login Page** 
-<Img src="login.png">
+<img width="1678" height="954" alt="image" src="https://github.com/user-attachments/assets/fc7e8024-1dbd-491c-be15-182955846252" />
 - Form login dengan username dan password
 - Validasi akses pengguna
 - Tampilan profesional dengan header dan navigasi
