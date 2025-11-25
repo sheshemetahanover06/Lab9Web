@@ -45,7 +45,8 @@ Sistem Data Barang adalah aplikasi web untuk mengelola inventory barang dengan f
 
 ##  Sistem Autentikasi
 **Login Page** 
-<img width="1678" height="954" alt="image" src="https://github.com/user-attachments/assets/fc7e8024-1dbd-491c-be15-182955846252" />
+<img width="1551" height="940" alt="image" src="https://github.com/user-attachments/assets/d3433572-0069-4a44-9375-599182e05847" />
+
 - Form login dengan username dan password
 - Validasi akses pengguna
 - Tampilan profesional dengan header dan navigasi
