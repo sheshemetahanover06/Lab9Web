@@ -1,4 +1,4 @@
-# NAMA: She She Metahanover 
+<img width="1678" height="954" alt="image" src="https://github.com/user-attachments/assets/fc7e8024-1dbd-491c-be15-182955846252" /># NAMA: She She Metahanover 
 # NIM: 312410432
 # KELAS: TI.24.A.3
 
@@ -76,7 +76,9 @@ Sistem Data Barang adalah aplikasi web untuk mengelola inventory barang dengan f
 
 ##  Tambah Barang
 **Form Tambah Barang** 
-<Img src="tambah_barang.png">
+[<img width="1678" height="954" alt="image" src="https://github.com/user-attachments/assets/bb5d7e31-31db-42e7-826d-318c0381cbad" />
+
+
 - Input data barang baru:
 - Nama Barang (text input)
 - Kategori (dropdown/select)
