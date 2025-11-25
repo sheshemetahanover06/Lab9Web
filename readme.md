@@ -63,7 +63,8 @@ Sistem Data Barang adalah aplikasi web untuk mengelola inventory barang dengan f
 
 ##  Manajemen Data Barang
 **Data Barang** 
-<Img src="data_barang.png">
+<img width="1693" height="916" alt="image" src="https://github.com/user-attachments/assets/59c2d9a4-204c-49bb-af6d-34d4a9dad321" />
+
 - Tabel daftar barang dengan kolom lengkap:
 - Nama Barang
 - Kategori
